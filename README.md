@@ -38,7 +38,7 @@ Steps:
 
 
 
-*8. Version Control:*
+*Version Control:*
 
 Utilize Git for version control to track changes and collaborate with team members.
 Commit changes regularly and follow best practices for branching and merging.
