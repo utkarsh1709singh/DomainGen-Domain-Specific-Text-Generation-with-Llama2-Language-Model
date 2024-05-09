@@ -1,6 +1,6 @@
-* "DomainGen: Domain-Specific Text Generation with Llama2 Language Models"*
+*"DomainGen: Domain-Specific Text Generation with Llama2 Language Models"*
 
-** Description: ** 
+**Description:** 
 DomainGen is a project focused on deploying, fine-tuning, and evaluating Llama2 language models for domain-specific text generation tasks. Leveraging AWS SageMaker and Jupyter notebooks, this project provides a comprehensive framework for deploying pre-trained models, fine-tuning them with domain-specific datasets, and evaluating their performance.
 
 Steps:
@@ -25,12 +25,12 @@ Steps:
 + Execute the notebook cells to fine-tune the model with the chosen domain data.
 + Verify the fine-tuning process and document the results.
 
-* 4. Deployment of Fine-tuned Model: *
+*4. Deployment of Fine-tuned Model:*
 
 + Follow the AWS SageMaker deployment steps outlined in the provided notebook.
 + Configure the deployment settings and deploy the fine-tuned Llama2 model.
 + Verify the deployment and document the steps and screenshots.
-* 5. Evaluation of Fine-tuned Model: *
+*5. Evaluation of Fine-tuned Model:*
 
 + Use the provided Jupyter notebook to evaluate the fine-tuned model's performance.
 + Provide domain-specific inputs to the model and analyze the generated outputs.
@@ -39,13 +39,13 @@ Steps:
 
 +Prepare comprehensive documentation detailing the entire project, including deployment steps, fine-tuning process, evaluation results, and analysis.
 Include screenshots, code snippets, and explanations to make the documentation clear and informative.
-7. GitHub Setup:
+*7. GitHub Setup:*
 
 Create a new GitHub repository for the project.
 Push the project code, including notebooks, scripts, and documentation, to the GitHub repository.
 Ensure proper organization and README.md file to guide users through the project setup and usage.
 
-8. Version Control:
+*8. Version Control:*
 
 Utilize Git for version control to track changes and collaborate with team members.
 Commit changes regularly and follow best practices for branching and merging.
