@@ -35,15 +35,8 @@ Steps:
 + Use the provided Jupyter notebook to evaluate the fine-tuned model's performance.
 + Provide domain-specific inputs to the model and analyze the generated outputs.
 + Document any improvements or changes in the model's performance post-fine-tuning.
-* 6. Project Documentation: *
 
-+Prepare comprehensive documentation detailing the entire project, including deployment steps, fine-tuning process, evaluation results, and analysis.
-Include screenshots, code snippets, and explanations to make the documentation clear and informative.
-*7. GitHub Setup:*
 
-Create a new GitHub repository for the project.
-Push the project code, including notebooks, scripts, and documentation, to the GitHub repository.
-Ensure proper organization and README.md file to guide users through the project setup and usage.
 
 *8. Version Control:*
 
